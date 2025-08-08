@@ -5,7 +5,7 @@ This repository showcases the projects, exercises, and write-ups I’ve complete
 
 ---
 
-## 📂 Table of Contents
+## Table of Contents
 1. [About Me](#about-me)
 2. [Skills & Tools](#skills--tools)
 3. [Projects](#projects)
@@ -20,12 +20,12 @@ This repository showcases the projects, exercises, and write-ups I’ve complete
 
 ---
 
-## 👤 About Me
+## About Me
 _A short introduction about yourself, your goals in cybersecurity, and your areas of interest._
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 | Category         | Tools / Technologies |
 |------------------|----------------------|
@@ -38,7 +38,7 @@ _A short introduction about yourself, your goals in cybersecurity, and your area
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### OSINT
 **Project Name:** _e.g., "Investigating a Fake Profile"_  
